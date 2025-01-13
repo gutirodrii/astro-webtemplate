@@ -21,9 +21,9 @@ export function MenuAccordion() {
                 <div className="flex justify-between">
                   <p className="overflow-clip">{item.name}</p>
                   <div className="flex">
-                    <p className="px-1 text-xs">{item.tapa}</p>
-                    <p className="px-1 text-xs">{item.media}</p>
-                    <p className="px-1 text-xs">{item.racion}</p>
+                    { item.tapa && <p className="px-1 text-xs">{item.tapa}€</p> }
+                    { item.media && <p className="px-1 text-xs">{item.media}€</p> }
+                    { item.racion && <p className="px-1 text-xs">{item.racion}€</p> }
                   </div>
                 </div>
               </AccordionContent>
