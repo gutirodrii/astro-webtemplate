@@ -1,9 +1,15 @@
 ---
-import AccordionDemo from "../components/AccordionDemo.tsx"
+import { useEffect } from "react";
+import MenuAccordion from "./MenuAccordion.tsx";
+import {Button} from "../components/ui/button.tsx";
+// TODO: Importar este json en el formato de acordeon que tenemos
+// TODO: Adaptar el acordeon segun los props del json
+// TODO: Modificar diseño del acordeon
+
 ---
 
 <div>
   <main class="flex flex-col">
-	  <AccordionDemo client:load/>  
+    <MenuAccordion client:load/>
   </main>
 </div>
