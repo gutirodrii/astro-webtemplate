@@ -1,0 +1,245 @@
+{
+  "menu": [
+    {
+      "category": "Tapas Frías",
+      "items": [
+        {
+          "name": "Bolsa de Patatas Artesanas",
+          "tapa": "1.50€",
+          "media": null,
+          "racion": null
+        },
+        { "name": "Aceitunas", "tapa": "1.00€", "media": null, "racion": null },
+        {
+          "name": "Ensaladilla Rusa",
+          "tapa": "2.50€",
+          "media": "5.00€",
+          "racion": "9.90€"
+        },
+        {
+          "name": "Patatas Alioli Cocidas",
+          "tapa": "2.50€",
+          "media": "5.00€",
+          "racion": "9.90€"
+        },
+        {
+          "name": "Pechuga Rellena de Jamón y Queso",
+          "tapa": "2.60€",
+          "media": "5.20€",
+          "racion": "10.30€"
+        },
+        {
+          "name": "Salmorejo",
+          "tapa": "2.60€",
+          "media": "5.20€",
+          "racion": "10.30€"
+        },
+        {
+          "name": "Aliño de Atún",
+          "tapa": "2.50€",
+          "media": "5.00€",
+          "racion": "9.90€"
+        }
+      ]
+    },
+    {
+      "category": "Para Untar",
+      "items": [
+        {
+          "name": "Queso de Cabra con Miel",
+          "tapa": "3.00€",
+          "media": "6.00€",
+          "racion": "11.90€"
+        },
+        {
+          "name": "Mousse de Pato",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        }
+      ]
+    },
+    {
+      "category": "Guisos",
+      "items": [
+        {
+          "name": "Espinacas con Garbanzos",
+          "tapa": "2.70€",
+          "media": "5.40€",
+          "racion": "10.70€"
+        },
+        {
+          "name": "Carrillada",
+          "tapa": "2.90€",
+          "media": "5.80€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Lomo con Tomate",
+          "tapa": "2.80€",
+          "media": "5.50€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Pisto Andaluz",
+          "tapa": "2.70€",
+          "media": "5.40€",
+          "racion": "10.70€"
+        }
+      ]
+    },
+    {
+      "category": "Fritos",
+      "items": [
+        {
+          "name": "Pechuga Bechamel",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Camembert Frito con Mermelada",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Croquetas de Jamón",
+          "tapa": "2.60€",
+          "media": "5.20€",
+          "racion": "10.30€"
+        },
+        {
+          "name": "Flamenquín de York y Queso",
+          "tapa": "2.60€",
+          "media": "5.20€",
+          "racion": "10.30€"
+        },
+        {
+          "name": "Lagrimitas de Pollo",
+          "tapa": "2.70€",
+          "media": "5.40€",
+          "racion": "10.70€"
+        },
+        {
+          "name": "Patatas Fritas (Mojo Picón, Alioli, Mayonesa)",
+          "tapa": "2.60€",
+          "media": null,
+          "racion": null
+        },
+        {
+          "name": "Patatas Fritas Roquefort",
+          "tapa": "2.90€",
+          "media": null,
+          "racion": null
+        }
+      ]
+    },
+    {
+      "category": "A la Plancha",
+      "items": [
+        {
+          "name": "Atún con Salsa Verde",
+          "tapa": "2.90€",
+          "media": "5.80€",
+          "racion": "11.50€"
+        },
+        {
+          "name": "Lomito de Merluza",
+          "tapa": "2.90€",
+          "media": "5.80€",
+          "racion": "11.50€"
+        },
+        {
+          "name": "Chipirones con Alioli",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Champiñones con Salsa Verde",
+          "tapa": "2.70€",
+          "media": "5.40€",
+          "racion": "10.70€"
+        },
+        {
+          "name": "Pechuga de Pollo en Salsa de Almendras",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Pinchito (Pollo o Cerdo)",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Solomillo Cerdo",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Whisky, Roquefort, Mostaza, Carbonara",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Punta de Solomillo",
+          "tapa": "2.80€",
+          "media": "5.60€",
+          "racion": "11.10€"
+        },
+        {
+          "name": "Secreto Ibérico",
+          "tapa": "3.00€",
+          "media": "6.00€",
+          "racion": "11.90€"
+        }
+      ]
+    },
+    {
+      "category": "Montaditos",
+      "items": [
+        {
+          "name": "Montadito Solomillo Whisky o Roquefort",
+          "tapa": "2.90€",
+          "media": "5.80€",
+          "racion": "11.50€"
+        },
+        {
+          "name": "Montadito de Secreto Ibérico",
+          "tapa": "2.90€",
+          "media": "5.80€",
+          "racion": "12.30€"
+        },
+        {
+          "name": "Miniseranito",
+          "tapa": "2.90€",
+          "media": "5.80€",
+          "racion": "11.50€"
+        },
+        {
+          "name": "Hamburguesa de Pollo",
+          "tapa": "2.90€",
+          "media": null,
+          "racion": "7.00€"
+        },
+        {
+          "name": "Montadito de Pringá",
+          "tapa": "2.90€",
+          "media": null,
+          "racion": "11.10€"
+        },
+        {
+          "name": "Montadito Piripi",
+          "tapa": "2.90€",
+          "media": "5.80€",
+          "racion": "11.50€"
+        }
+      ]
+    }
+  ]
+}
